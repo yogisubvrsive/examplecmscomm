@@ -1,0 +1,205 @@
+{
+    "easterEgg": [
+        {
+            "id": "UUIDv4",
+            "identifier": 34,
+            "completed": false
+        },
+        {
+            "id": "UUIDv4",
+            "identifier": 35,
+            "completed": false
+        }
+    ],
+    "learningModule": [
+        {
+            "id": "UUIDv4",
+            "identifier": 0,
+            "touchPoints": [
+                {
+                    "id": "UUIDv4",
+                    "identifier": 5,
+                    "completed": false
+                },
+                {
+                    "id": "UUIDv4",
+                    "identifier": 6,
+                    "completed": false
+                },
+                {
+                    "id": "UUIDv4",
+                    "identifier": 7,
+                    "completed": false
+                },
+                {
+                    "id": "UUIDv4",
+                    "identifier": 8,
+                    "completed": false
+                },
+                {
+                    "id": "UUIDv4",
+                    "identifier": 9,
+                    "completed": false
+                },
+                {
+                    "id": "UUIDv4",
+                    "identifier": 10,
+                    "completed": false
+                }
+            ],
+            "completed": 0,
+            "seenCompletion": false
+        },
+        {
+            "id": "UUIDv4",
+            "identifier": 1,
+            "touchPoints": [
+                {
+                    "id": "UUIDv4",
+                    "identifier": 19,
+                    "completed": false
+                },
+                {
+                    "id": "UUIDv4",
+                    "identifier": 20,
+                    "completed": false
+                },
+                {
+                    "id": "UUIDv4",
+                    "identifier": 21,
+                    "completed": false
+                },
+                {
+                    "id": "UUIDv4",
+                    "identifier": 22,
+                    "completed": false
+                },
+                {
+                    "id": "UUIDv4",
+                    "identifier": 23,
+                    "completed": false
+                },
+                {
+                    "id": "UUIDv4",
+                    "identifier": 24,
+                    "completed": false
+                },
+                {
+                    "id": "UUIDv4",
+                    "identifier": 25,
+                    "completed": false
+                },
+                {
+                    "id": "UUIDv4",
+                    "identifier": 26,
+                    "completed": false
+                },
+                {
+                    "id": "UUIDv4",
+                    "identifier": 27,
+                    "completed": false
+                }
+            ],
+            "completed": 0,
+            "seenCompletion": false
+        },
+        {
+            "id": "UUIDv4",
+            "identifier": 4,
+            "touchPoints": [
+                {
+                    "id": "UUIDv4",
+                    "identifier": 28,
+                    "completed": false
+                },
+                {
+                    "id": "UUIDv4",
+                    "identifier": 29,
+                    "completed": false
+                },
+                {
+                    "id": "UUIDv4",
+                    "identifier": 30,
+                    "completed": false
+                },
+                {
+                    "id": "UUIDv4",
+                    "identifier": 31,
+                    "completed": false
+                },
+                {
+                    "id": "UUIDv4",
+                    "identifier": 32,
+                    "completed": false
+                },
+                {
+                    "id": "UUIDv4",
+                    "identifier": 33,
+                    "completed": false
+                }
+            ],
+            "completed": 0,
+            "seenCompletion": false
+        },
+        {
+            "id": "UUIDv4",
+            "identifier": 2,
+            "touchPoints": [
+                {
+                    "id": "UUIDv4",
+                    "identifier": 17,
+                    "completed": false
+                },
+                {
+                    "id": "UUIDv4",
+                    "identifier": 18,
+                    "completed": false
+                }
+            ],
+            "completed": 0,
+            "seenCompletion": false
+        },
+        {
+            "id": "UUIDv4",
+            "identifier": 3,
+            "touchPoints": [
+                {
+                    "id": "UUIDv4",
+                    "identifier": 14,
+                    "completed": false
+                },
+                {
+                    "id": "UUIDv4",
+                    "identifier": 15,
+                    "completed": false
+                },
+                {
+                    "id": "UUIDv4",
+                    "identifier": 11,
+                    "completed": false
+                }
+            ],
+            "completed": 0,
+            "seenCompletion": false
+        }
+    ],
+    "completed_tutorial": false,
+    "moduleIntros": [
+        {
+            "module": 0,
+            "completed": false
+        },
+        {
+            "module": 5,
+            "completed": false
+        },
+        {
+            "module": 3,
+            "completed": false
+        },
+        {
+            "module": 6,
+            "completed": false
+        }
+    ]
+}

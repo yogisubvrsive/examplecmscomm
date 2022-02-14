@@ -1,0 +1,67 @@
+{
+    "moduleRoom": 1,
+    "moduleTitle": "Meet Your Customers",
+    "progressState": 2,
+    "checkpointIDDataDictionary": {
+        "reorderableList": {
+            "canAdd": true,
+            "canRemove": true,
+            "draggable": true,
+            "expandable": true,
+            "multipleSelection": true,
+            "isExpanded": true,
+            "label": {
+                "m_Text": "Keys",
+                "m_Image": {
+                    "instanceID": 0
+                },
+                "m_Tooltip": ""
+            },
+            "headerHeight": 18.0,
+            "footerHeight": 13.0,
+            "slideEasing": 0.15000000596046449,
+            "verticalSpacing": 2.0,
+            "showDefaultBackground": true,
+            "elementDisplayType": 0,
+            "elementNameProperty": "",
+            "elementNameOverride": "",
+            "elementIcon": {
+                "instanceID": 0
+            }
+        },
+        "reqReferences": {
+            "instanceID": 0
+        },
+        "isExpanded": true,
+        "_keyValues": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "_keys": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "_values": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    "progressPartsDataMap": {
+        "instanceID": 25388
+    },
+    "onModuleProgressUpdated": {
+        "instanceID": 25358
+    },
+    "onModuleCompleted": {
+        "instanceID": 25390
+    }
+}
